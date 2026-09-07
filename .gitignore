@@ -3,3 +3,8 @@ __pycache__/
 .pytest_cache/
 .env
 *.db
+*.db-*
+data/
+# Локални учебни примери и обяснения
+/examples/
+/learning_lab/

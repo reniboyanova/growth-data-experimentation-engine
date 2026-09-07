@@ -4,6 +4,7 @@ __pycache__/
 .env
 *.db
 *.db-*
+tests/.test-growth.db
 data/
 # Локални учебни примери и обяснения
 /examples/
